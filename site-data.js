@@ -78,7 +78,7 @@ Up to 40 reuses`,
       "features": "Available for rental (see Pricelist)",
       "steps": "Installation support: ProGM21 assigns staff to the sales site to provide technical and theoretical support.",
       "safety": "Contact ProGM21 for handling, safety and maintenance guidance for this product.",
-      "img": ""
+      "img": "images/Hory Beam.jpg"
     },
     {
       "id": "spacers",
