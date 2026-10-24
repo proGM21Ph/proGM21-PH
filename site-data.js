@@ -15,7 +15,7 @@ const SITE = {
   "brand": "ProGM21 PH Corporation",
   "contact": {
     "name": "Ma’am Sheena Broña",
-    "mobile": "(032) 427-8217",
+    "mobile": "(032) 402-1517",
     "viber": "+63966-154-1528",
     "email": "progm21sales@gmail.com",
     "address": "Square One Bldg. Unit-2C, Lopez Jaena St. Tipolo, Mandaue City, Philippines, 6014",
