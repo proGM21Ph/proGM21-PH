@@ -60,7 +60,7 @@ SeventySeven Living Spaces`,
       "desc": "A formwork system combining the advantages of wooden and metal formwork. The frame is metal and the plate is water-resistant plywood, so panels are light, easy to dismantle and shorten the construction period. It is standardized and modular, customized to the site (including 3D modeling), giving cleaner concrete surfaces than conventional methods. ProGM21 rents or sells Euro Form.",
       "specs": `Panel height: 1200 mm
 Panel widths: 200, 250, 300, 350, 400, 450, 500, 600 mm
-Weight (width: kg): 200: 11.1 | 250: 11.9 | 300: 12.8 | 350: 13.7 | 400: 14.6 | 450: 15.5 | 500: 16.9 | 600: 19.0
+Weight (width|kg) : 200: 11.1 | 250: 11.9 | 300: 12.8 | 350: 13.7 | 400: 14.6 | 450: 15.5 | 500: 16.9 | 600: 19.0
 Frame / plate: metal frame, water-resistant plywood`,
       "sizes": "200, 250, 300, 350, 400, 450, 500, 600 x 1200 mm; corner angles L1200 / L2400",
       "accessories": "Flat ties, hooks, wedge pin, outside corner, inside corner, C-clamp, cross bar",
