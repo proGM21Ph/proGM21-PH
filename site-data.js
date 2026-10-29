@@ -35,7 +35,7 @@ Goal: Be a solution provider to customers nationwide and worldwide with producti
 Consulting: construction advice, value engineering, technical studies and support, and schedule management.`,
   "consultImg": "images/construction-consultation.jpg",
   "logo": "images/logo.png",
-  "brochure": "files/ProGM21_Catalogue_2026.pdf",
+  "brochure": "",
   "clients": `TL Construction Co
 PLD Construction
 HAMM-Asia Global Builders Corporation

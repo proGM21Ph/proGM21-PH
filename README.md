@@ -4,12 +4,11 @@ Files:
 - `index.html` – the page design (you do not need to touch this)
 - `site-data.js` – ALL text, contact details, sizes, products, clients and photo links (edit this)
 - `images/` – product photos and gallery photos
-- `files/` – the PDF catalogue
 
 ## 1. Upload to GitHub (first time)
 1. Sign in at github.com. Tap **+** > **New repository**. Name it `progm21`, choose **Public**, tap **Create repository**.
 2. Tap **uploading an existing file**.
-3. Unzip this package first. Upload the files INSIDE the folder (not the zip, not the outer folder): `index.html`, `site-data.js`, `README.md`, the `images` folder and the `files` folder.
+3. Unzip this package first. Upload the files INSIDE the folder (not the zip, not the outer folder): `index.html`, `site-data.js`, `README.md` and the `images` folder.
 4. Tap **Commit changes**.
 `index.html` must be at the top of the repository, not inside another folder.
 
